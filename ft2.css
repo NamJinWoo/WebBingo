@@ -1,0 +1,15 @@
+table tr td {
+  border: 1px solid black;
+
+}
+table{
+    border-collapse: collapse;
+    width: 500px;
+    height: 500px;
+}
+.selected{
+  background-color: gray;
+}
+.matched{
+  background-color: skyblue;
+}
